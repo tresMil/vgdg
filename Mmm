@@ -1,0 +1,970 @@
+#EXTM3U
+#EXTINF:-1, Golden premier
+http://forumz.us/canales/TvDroid_goldempremierhd.php?id=GOLDEN_PREMIER_HD&idd=goldp
+#EXTINF:-1, Space
+http://forumz.us/canales/TvDroid_space.php?id=SPACE_HD&idd=space
+#EXTINF:-1, A&E
+http://www.iptv.darkiptv.com/appnopor/1nopor1/ae.php?index.m3u8
+#EXTINF:-1, AMC
+http://www.iptv.darkiptv.com/appnopor/1nopor1/amc.php?index.m3u8
+#EXTINF:-1, FX
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/fx.php?index.m3u8
+#EXTINF:-1,MOVISTAR ANTENA 3 HD
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_4_av-b.m3u8
+#EXTINF:-1,4 HD JUJUY
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:-1,Artear HD
+http://200.89.190.163/live/live/ArtearHD/SA_Live/ArtearHD-audio_AACL_spa_144800_50=144800-video=3900000.m3u8
+#EXTINF:-1,Cosmo Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
+#EXTINF:-1,Entretenimiento:RCN HD
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+#EXTINF:-1,MOVISTAR ANTENA 3 HD
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF:-1,MOVISTAR AXN WHITE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8
+#EXTINF:-1,[COLOR WHITE] [/COLOR] TC
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+#EXTINF:-1,MOVISTAR COMEDY CENTRAL HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
+#EXTINF:-1,MOVISTAR DCINE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
+#EXTINF:-1,MOVISTAR FOX
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
+#EXTINF:-1,AXN White Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
+#EXTINF:-1,AXN
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/610/index.m3u8
+#EXTINF:-1,AXN HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8
+#EXTINF:-1,AMC HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/614/index.m3u8
+#EXTINF:-1,FOX LIFE hd
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/601/index.m3u8
+#EXTINF:-1,FOX LIFE HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/567/index.m3u8
+#EXTINF:-1,AXN WHITE HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8
+#EXTINF:-1 tvg-logo="http://i63.tinypic.com/2zxnk08.png" group-title="DEPORTES 2",Univision TDN
+https://nludnoo.akamaized.net/nlds/univision/as/live/udnoo_hd_4500_20180313042410.m3u8
+#EXTINF:-1, discovery science
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/discoveryscience.php?index.m3u8
+#EXTINF:-1, DISCOVERY THEATER
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/discovery_theater.php?index.m3u8
+#EXTINF:-1, DISCOBERY CIVIL
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/discoverycivil.php?index.m3u8
+#EXTINF:-1, ANIMAL PLANET
+http://www.iptv.darkiptv.com/appnopor/1nopor1/animalplanet.php?index.m3u8
+#EXTINF:-1, NATGEO
+http://www.iptv.darkiptv.com/appnopor/3siguenopor3/natgeo.php?index.m3u8
+#EXTINF:-1, NATGOE MX
+http://www.iptv.darkiptv.com/appnopor/3siguenopor3/natgeo_mx.php?index.m3u8
+#EXTINF:-1, HISTORY
+http://www.iptv.darkiptv.com/appnopor/3siguenopor3/history.php?index.m3u8
+#EXTINF:-1, H2
+http://www.iptv.darkiptv.com/appnopor/3siguenopor3/h2.php?index.m3u8
+#EXTINF:-1, NAT GEO
+http://www.iptv.darkiptv.com/appnopor/3siguenopor3/natgeo_wild.php?index.m3u8
+#EXTINF:-1, TLC
+http://www.iptv.darkiptv.com/appnopor/4regalitonopor4/tlc.php?index.m3u8
+#EXTINF:-1, EL GOURMET
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/elgourmet.php?index.m3u8
+#EXTINF:-1, HBO SUB
+http://www.iptv.darkiptv.com/appnopor/3siguenopor3/hbo_sub.php?index.m3u8
+#EXTINF:-1, FOX SERIES
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/foxseries_sub.php?index.m3u8
+#EXTINF:-1, FOX ACTION
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/fox_action_mx.php?index.m3u8
+#EXTINF:-1, FOX CINEMA
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/fox_cinema_sub.php?index.m3u8
+#EXTINF:-1, FOX ACTION
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/fox_action_mx.php?index.m3u8
+#EXTINF:-1, FOX SERIES
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/foxseries_sub.php?index.m3u8
+#EXTINF:-1, CINEMAX
+http://www.iptv.darkiptv.com/appnopor/1nopor1/cinemax.php?index.m3u8
+#EXTINF:-1, FOX COMEDY
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/fox_comedy.php?index.m3u8
+#EXTINF:-1, MAX PRIME
+http://www.iptv.darkiptv.com/appnopor/3siguenopor3/max_prime.php?index.m3u8
+#EXTINF:-1, CINECANAL
+http://www.iptv.darkiptv.com/appnopor/1nopor1/cinecanal.php?index.m3u8
+#EXTINF:-1, FOX CLASSIC
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/fox_classics.php?index.m3u8
+#EXTINF:-1, MAX UP
+http://www.iptv.darkiptv.com/appnopor/3siguenopor3/maxup.php?index.m3u8
+#EXTINF:-1, TNT
+http://www.iptv.darkiptv.com/appnopor/4regalitonopor4/tnt.php?index.m3u8
+ 
+EXTINF:-1, Warner
+http://forumz.us/canales/TvDroid_warner.php?id=WARNER_HD&idd=warner
+#EXTINF:-1, FXM
+http://forumz.us/canales/TvDroid_tfz.php?id=THE_FILM_ZONE_HD&idd=fxm
+#EXTINF:-1, Fox
+http://forumz.us/canales/TvDroid_fox.php?id=FOX_HD&idd=f0x
+#EXTINF:-1, Fox 1
+http://forumz.us/canales/TvDroid_foxserieshd.php?id=FOX1_HD&idd=f0x_series
+#EXTINF:-1, Space
+http://forumz.us/canales/TvDroid_space.php?id=SPACE_HD&idd=space
+#EXTINF:-1, Universal
+http://forumz.us/canales/TvDroid_universal_channel.php?id=UNIVERSAL_CHANNEL&idd=univers
+#EXTINF:-1, Golden
+http://forumz.us/canales/TvDroid_goldem.php?id=GOLDEN_HD&idd=golden
+#EXTINF:-1, Axn
+http://forumz.us/canales/TvDroid_axn.php?id=AXN_HD&idd=axn
+#EXTINF:-1, Warner
+http://forumz.us/canales/TvDroid_warner.php?id=WARNER_HD&idd=warner
+#EXTINF:-1, Studio universal
+http://forumz.us/canales/TvDroid_Estudio_Universal.php?id=STUDIO_UNIVERSAL&idd=stdio_univ
+#EXTINF:-1, Tcm
+http://forumz.us/canales/TvDroid_tcm.php?id=TCM&idd=tcm
+#EXTINF:-1, Tbs
+http://forumz.us/canales/TvDroid_tbs.php?id=TBS_HD&idd=tbs
+#EXTINF:-1, Cinecanal
+http://forumz.us/canales/TvDroid_cinecanal.php?id=CINECANAL_HD&idd=cinecanal
+#EXTINF:-1, Fx hd
+http://forumz.us/canales/TvDroid_fx.php?id=FX_HD&idd=fx
+#EXTINF:-1, Tnt series
+http://forumz.us/canales/TvDroid_tnt_series.php?id=TNT_SERIES_HD&idd=tnt_ser
+#EXTINF:-1, Amc
+http://forumz.us/canales/TvDroid_amc.php?id=AMC_HD&idd=amc
+#EXTINF:-1, Tnt
+http://forumz.us/canales/TvDroid_TNT.php?id=TNT_HD&idd=tnt
+#EXTINF:-1, Depelicula
+http://forumz.us/canales/TvDroid_depelicula.php?id=DEPELICULA&idd=depelicula
+#EXTINF:-1, Multipremier
+http://forumz.us/canales/TvDroid_multipremier.php?id=MULTIPREMIER&idd=multipremier
+#ENTINF:-1, Cinelatino
+http://forumz.us/canales/TvDroid_cinelatino.php?id=CINELATINO&idd=cinelatino
+#EXTINF:-1, Cinema dinamita
+http://forumz.us/canales/TvDroid_cinedinamita.php?id=CINEMA_DINAMITA&idd=cinema_dinamita
+#EXTINF:-1, Paramount
+http://forumz.us/canales/TvDroid_paramount.php?id=PARAMOUNT_HD&idd=param
+#EXTINF:-1, Eurochannel
+http://forumz.us/canales/TvDroid_eurochannel.php?id=EUROCHANNEL&idd=eurochannel
+#EXTINF:-1, iSat
+http://forumz.us/canales/TvDroid_isat.php?id=ISAT&idd=disat
+#EXTINF:-1, Fx
+http://forumz.us/canales/TvDroid_fx.php?id=FX_HD&idd=fx
+#EXTINF:-1, Sundance
+http://forumz.us/canales/TvDroid_sundance.php?id=SUNDANCE_HD&idd=sundance
+#EXTINF:-1, A&E mundo
+http://forumz.us/canales/TvDroid_aemundo.php?id=AE_MUNDO_HD&idd=aehd
+#EXTINF:-1, Cinemax
+http://forumz.us/canales/TvDroid_c1nemax.php?id=CINEMAX&idd=c1nemax
+#EXTINF:-1, Golden premier
+http://forumz.us/canales/TvDroid_goldempremierhd.php?id=GOLDEN_PREMIER_HD&idd=goldp
+#EXTINF:-1, Hbo
+http://forumz.us/canales/TvDroid_hbo.php?id=HBO_HD_SUB&idd=hbohd_sub
+#EXTINF:-1, Sony
+http://forumz.us/canales/TvDroid_sony.php?id=SONY_HD&idd=sony
+#EXTINF:-1, Fox movies
+http://forumz.us/canales/TvDroid_foxmovies.php?id=FOXMOVIES_HD&idd=f0x_movies
+#EXTINF:-1, Animal planet
+http://forumz.us/canales/TvDroid_animalplanet.php?id=ANIMAL_PLANET_HD&idd=anim_planet
+#EXTINF:-1, Discobery world
+http://forumz.us/canales/TvDroid_discoveryworld.php?id=DISCOVERY_WORLD_HD&idd=world
+#EXTINF:-1, Discobery channel
+http://forumz.us/canales/TvDroid_discoverychannel.php?id=DISCOVERY_CHANNEL_HD&idd=discovery_channel_hd
+#EXTINF:-1, Nat geo
+http://forumz.us/canales/TvDroid_natgeo.php?id=NATGEO_HD&idd=natgeo
+#EXTINF:-1, Discobery theater
+http://forumz.us/canales/TvDroid_discoverytheater.php?id=DISCOVERY_THEATER_HD&idd=theater
+#EXTINF:-1, Discobery science
+http://forumz.us/canales/TvDroid_discoveryscience.php?id=DISCOVERY_SCIENCE&idd=disc_science
+#EXTINF:-1, H2
+http://forumz.us/canales/TvDroid_h2.php?id=H2&idd=h2
+#EXTINF:-1, Discobery turbo
+http://forumz.us/canales/TvDroid_discoveryturbo.php?id=DISCOVERY_TURBO&idd=disc_turbo
+#EXTINF:-1, TLC
+http://forumz.us/canales/TvDroid_tlc.php?id=TLC_HD&idd=tlc
+#EXTINF:-1,  Nat geo
+http://forumz.us/canales/TvDroid_natgeomx.php?id=NATGEO_MX_HD&idd=natgeo_mx
+#EXTINF:-1, Comedy central
+http://forumz.us/canales/TvDroid_concertchannel.php?id=COMEDY_CENTRAL_HD&idd=cc
+#EXTINF:-1, TBS
+http://forumz.us/canales/TvDroid_tbs.php?id=TBS_HD&idd=tbs
+#EXTINF:-1,  Tlnovelas
+http://forumz.us/canales/TvDroid_rcntelenovelas.php?id=RCN_TELENOVELAS&idd=rcn_tln
+#EXTINF:-1, h&h
+http://forumz.us/canales/TvDroid_discoveryhh.php?id=DISCOVERY_HOME_HEALTH_HD&idd=disc_hh
+#EXTINF:-1, Gourmet
+http://forumz.us/canales/TvDroid_elgourmet.php?id=GOURMET_HD&idd=elgourmet
+#EXTINF:-1, Disney
+http://forumz.us/canales/TvDroid_disneyhd.php?id=DISNEY_HD&idd=d1sney
+#EXTINF:-1, Cartoon network
+http://forumz.us/canales/TvDroid_cartoonnetwork.php?id=CARTOON_NETWORK_HD&idd=cart_net
+#EXTINF:-1, Nickelodeon
+http://forumz.us/canales/TvDroid_nickelodeon.php?id=NICKELODEON_HD&idd=nick
+#EXTINF:-1, Discobery kids
+http://forumz.us/canales/TvDroid_discoverykids.php?id=DISCOVERY_KIDS_HD&idd=disc_kids
+#EXTINF:-1, Xd
+http://forumz.us/canales/TvDroid_disneyxd.php?id=DISNEY_XD&idd=d1sneyxd
+#EXTINF:-1, Tooncast
+http://forumz.us/canales/TvDroid_tooncast.php?id=TOONCAST&idd=tooncast
+#EXTINF:-1, Nick 2
+http://forumz.us/canales/TvDroid_nick2.php?id=NICK_2_HD&idd=nick2
+#EXTINF:-1, Nat geo kids
+http://forumz.us/canales/TvDroid_natgeokids.php?id=NATGEO_KIDS_HD&idd=natgeo_kids
+#EXTINF:-1, Boomerang
+http://forumz.us/canales/TvDroid_boomerang.php?id=BOOMERANG&idd=boomerang
+#EXTINF:-1 tvg-ID="" tvg-name="ARG:CIUDAD MAGAZINE" tvg-logo="http://photocall.tv/images/magazine.png" group-title="LATINOS",EXCLUSIVO ALEXIS IPTV SUBSCRIBETE
+http://54.37.84.141:8000/live/demoleague/champions/2
+#EXTINF:-1 tvg-ID="" tvg-name="ARG:TV PUBLICA" tvg-logo="http://photocall.tv/images/tvp.png" group-title="EXCLUSIVO ALEXIS IPTV SUBSCRIBETE",EXCLUSIVO ALEXIS IPTV SUBSCRIBETE
+http://54.37.84.141:8000/live/demoleague/champions/3.
+#EXTINF:-1 tvg-ID="" tvg-name="ARG:ORBE 21" tvg-logo="http://photocall.tv/images/orbe21.png" group-title="LATINOS",EXCLUSIVO ALEXIS IPTV SUBSCRIBETE
+http://54.37.84.141:8000/live/demoleague/champions/136
+#EXTINF:-1, Nat geo kids mx
+http://forumz.us/canales/TvDroid_natgeokidsmx.php?id=NATGEOKIDS_MX_HD&idd=natgeo_kids_mx
+#EXTINF:-1, Concert channel
+http://forumz.us/canales/TvDroid_concertchannel.php?id=CONCERT_CHANNEL_HD&idd=concert
+#EXTINF:-1, Mtv hd
+http://forumz.us/canales/TvDroid_mtv.php?id=MTV_HD&idd=mtvhd
+#EXTINF:-1, Mtv hits
+http://forumz.us/canales/TvDroid_mtvhits.php?id=MTV_HITS&idd=mtvh
+#EXTINF:-1, Vh1
+http://forumz.us/canales/TvDroid_vh1.php?id=VH1&idd=vh1
+#EXTINF:-1, Vh1 hd
+http://forumz.us/canales/TvDroid_vh1hd.php?id=VH1_HD&idd=vh1hd
+#EXTINF:-1, Fox life
+http://forumz.us/canales/TvDroid_foxlife.php?id=FOX_LIFE_HD&idd=f0xlife
+#EXTINF:-1, Espn
+http://forumz.us/tv/TvDroid_espn.php?id=ESPN_HD&idd=espn
+#EXTINF:-1, Espn 2
+http://forumz.us/canales/TvDroid_espn2.php?id=ESPN_2_HD&idd=espn2
+#EXTINF:-1, Fox
+http://forumz.us/canales/TvDroid_fox.php?id=FOX_HD&idd=f0x
+#EXTINF:-1, Hbo 2
+http://forumz.us/canales/TvDroid_hbo2.php?id=HBO_2_HD&idd=hb02
+#EXTINF:-1, Hbo PLUS
+http://forumz.us/canales/TvDroid_hboplus.php?id=HBO_PLUS_HD&idd=hboplus
+#EXTINF:-1, Max prime
+http://forumz.us/canales/TvDroid_maxprime.php?id=MAX_PRIME_HD&idd=m4x_prime
+#EXTINF:-1, Fox action
+http://forumz.us/canales/TvDroid_foxactionmexico.php?id=FOX_ACTION_MEXICO_HD&idd=fox_action_mx
+#EXTINF:-1,HBO PLUS
+http://forumz.us/tv/TvDroid_hboplus.php?id=HBO_PLUS_HD&idd=hboplus
+#EXTINF:-1,HBO FAMILY
+http://forumz.us/tv/TvDroid_hbofamily.php?id=HBO_FAMILY_HD&idd=hb0fam
+#EXTINF:-1,MAX UP
+http://forumz.us/tv/TvDroid_maxup.php?id=MAX_UP_HD&idd=m4xup
+#EXTINF:-1,FOX FAMILY
+http://forumz.us/tv/TvDroid_foxfamilyhd.php?id=FOXFAMILY_HD&idd=f0x_family
+#EXTINF:-1,DHE
+http://forumz.us/tv/TvDroid_dhe.php?id=DHE_HD&idd=dhe
+#EXTINF:-1,FOX ACTION
+http://forumz.us/tv/TvDroid_foxaction.php?id=FOXACTION_HD&idd=foxaction
+#EXTINF:-1,FOX CINEMA
+http://forumz.us/tv/TvDroid_foxcinemahdsub.php?id=FOX_CINEMA_HD_SUB&idd=f0x_cinema_sub
+#EXTINF:-1,FOX CLASSIC
+http://forumz.us/tv/TvDroid_foxclassics.php?id=FOX_CLASSICS_HD&idd=f0x_classics
+#EXTINF:-1, Espn 3
+http://forumz.us/canales/TvDroid_espn3.php?id=ESPN_3_HD&idd=espn3_kr
+#EXTINF:-1, Espn plus
+http://forumz.us/canales/TvDroid_espn_plus.php?id=ESPN_PLUS_HD&idd=espn_plus
+#EXTINF:-1, deportes
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+#EXTINF:-1, CINEMAX
+http://forumz.us/tv/TvDroid_c1nemax.php?id=CINEMAX&idd=c1nemax
+#EXTINF:-1, Fox sport 2
+http://forumz.us/canales/TvDroid_foxsports2.php?id=FOX_SPORTS2_HD&idd=foxsports2
+#EXTINF:-1, E!
+http://forumz.us/canales/TvDroid_e.php?id=E&idd=e_ent
+#EXTINF:-1, Fox sport hd
+http://forumz.us/canales/TvDroid_foxsports.php?id=FOX_SPORTS_HD&idd=foxsports
+#EXTINF:-1, Sport tv
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:-1, Fox sport 3
+http://forumz.us/canales/TvDroid_foxsports3.php?id=FOX_SPORTS3_HD&idd=foxsports3
+#EXTINF:-1, Fox spor 2mx
+http://forumz.us/canales/TvDroid_foxsports2mx.php?id=FOXSP2_MX_HD&idd=f0xsports2mx
+#EXTINF:-1, Fox sport mx
+http://forumz.us/canales/TvDroid_foxsportsmx.php?id=FOXSP1_MX_HD&idd=f0xsportsmx
+#EXTINF:-1, Win sport
+http://forumz.us/canales/TvDroid_winsports.php?id=WINSPORTS_HD&idd=winsports
+#EXTINF:-1, Claro sport
+http://forumz.us/canales/TvDroid_claro_sports_col.php?id=CLARO_SPORTS_COL_HD&idd=clspoco
+#EXTINF:-1, Univision deportes
+https://nludnoo.akamaized.net/nlds/univision/as/live/udnoo_hd_4500.m3u8
+#EXTINF:-1, Tdn
+https://nludnoo.akamaized.net/nlds/univision/as/live/udnoo_hd_4500.m3u8
+#EXTINF:-1,beIN LaLiga opción 4
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
+#EXTINF:-1,beIN LaLiga opción 6
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", ABU DABI SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?Compartilhandolink
+#EXTINF:-1,beIN Sport Español 2
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Sky Sport 2 HD Deutschland
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/733/index.m3u8
+#EXTINF:0 type="favorites" channelId="805", NBA
+http://31.204.150.12:8080/edge/4304/tracks-v1a1/index.m3u8?token=17.18.1487.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.641.0.0.71875765cf0ee5df30360b6487a7b6ec
+#EXTINF:0 type="favorites" channelId="-1", NFL Now
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:0 tvg-logo="https://img21.taquilla.com/data/images/t/07/sevilla-fc.jpg" , Sevilla FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1, Movistar MotoGP
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/613/index.m3u8
+#EXTINF:-1, Rai Sport
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/528/index.m3u8
+#EXTINF:-1, Movistar Formula 1
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/612/index.m3u8
+#EXTINF:-1, Eurosport 2
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/77/index.m3u8
+#EXTINF:-1, La Liga TV
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
+#EXTINF:-1, REDBULL INGLES
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:-1,Sevilla FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,SKY News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+#EXTINF:-1, Sports TV
+http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/master.m3u8
+#EXTINF:-1 tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png",Bein Sports 1 HD OP03
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
+#EXTINF:-1 tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png",Bein Sports 1 HD OP04
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
+#EXTINF:-1,Bein Sport Haber
+http://yetmis6tv.com/live/beinhaber.php/playlist.m3u8
+#EXTINF:-1,Bein Sports 2 OP01
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
+#EXTINF:-1,Sporting Tv
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,AD Sports 1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:-1,AD Sports 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1,Deport Tv
+https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/chunklist_w579935025_b542000_slesp.m3u8
+#EXTINF:-1, Mundo Auto Television | HD
+https://593b04c4c5670.streamlock.net/8702/8702/chunklist.m3u8
+#EXTINF:-1, OLYMPIC CHANNEL
+https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
+#EXTINF:-1, NFL
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,ABU DHABI SPORT OP01
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Pac 12 Arizona
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Pac 12 Bay Area
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Pac 12 Los Angeles
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Pac 12 Mountain
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Pac 12 Oregon
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Pac 12 Washington
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1", Dubai Sports
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+#EXTINF:0 type="favorites" channelId="-1", 100% Automoto (BG)
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:0 type="favorites" channelId="-1", A.d. Sport 1
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:0 type="favorites" channelId="-1", A.d. Sport 2
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:-1,ABU DHABI SPORT 2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,ABU DHABI SPORT 2 OP02
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1,Bein Sports Alemanha
+http://ams.tvizlehd.com/live/beinhaber/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.cbcsport.tv/upload/img/live.png" group-title="DEPORTES 2",CBC Sport
+http://s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" group-title="DEPORTES 2", Stadium Sports Network
+https://04476b7c682c4da8b8b4bfe23ef879c1.midas.us-east-1.amazonaws.com/v1/master/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 tvg-logo="https://mlblogsjoefrisaro.files.wordpress.com/2010/03/mlbnetwork.png" group-title="DEPORTES 2",MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.firstone.tv/images/logos/us/NFL_NOW.png" group-title="DEPORTES 2",NFL Now
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-FS7BOEiTZuY/UDFmV5bsaCI/AAAAAAAAByA/YWo48CK0PsY/s1600/red+bull+tv.png" group-title="DEPORTES 2",Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+MX",VIERNES 21:00 TIJUANA VS TOLUCA
+http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/974px-MX_logo.png" group-title="LIGA MX",SÁBADO 17:00 LOBOS VS PUEBLA
+https://nludnoo.akamaized.net/nlds/univision/as/live/udnoo_hd_1200_20180313042410.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/974px-MX_logo.png" group-title="LIGA MX",SÁBADO 19:00 TIGRES VS MONTERREY
+http://nlunioo.akamaized.net/nlds/univision/as/live/unioo_hd_4500_ipad.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/974px-MX_logo.png" group-title="LIGA MX",SÁBADO 19:00 TIGRES VS MONTERREY 2
+https://nludnoo.akamaized.net/nlds/univision/as/live/udnoo_hd_4500_20180313042410.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/974px-MX_logo.png" group-title="LIGA MX",SÁBADO 21:00 AMERICA VS SANTOS
+http://nlunioo.akamaized.net/nlds/univision/as/live/unioo_hd_1200_ipad.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/974px-MX_logo.png" group-title="LIGA MX",SÁBADO 21:06 CHIVAS VS LEON
+https://nludnoo.akamaized.net/nlds/univision/as/live/udnoo_hd_1200_20180313042410.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/974px-MX_logo.png" group-title="LIGA MX",DOMINGO 12:00 PUMAS VS QUERETARO
+http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/974px-MX_logo.png" group-title="LIGA MX",DOMINGO 18:00 VERACRUZ VS CRUZ AZUL
+http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/y11kbvgunax223q/1515646209142-1024x1024.png" group-title="DEPORTES",MIERCOLES 13:45 BAYERN MUNICH VS REAL MADRID
+http://www.sportinghub.info/mount/chapo1/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/y11kbvgunax223q/1515646209142-1024x1024.png" group-title="DEPORTES",MIERCOLS 19:45 BOCA JUNIORS VS PALMEIRAS
+http://www.sportinghub.info/mount/chapo1/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/y11kbvgunax223q/1515646209142-1024x1024.png" group-title="DEPORTES",MIERCOLES 20:30 CHIVAS VS TORONTO
+http://www.sportinghub.info/mount/chapo1/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ARG:CIUDAD MAGAZINE" tvg-logo="http://photocall.tv/images/magazine.png" group-title="LATINOS",EXCLUSIVO ALEXIS IPTV SUBSCRIBETE
+http://54.37.84.141:8000/live/demoleague/champions/2
+#EXTINF:-1 tvg-ID="" tvg-name="ARG:TV PUBLICA" tvg-logo="http://photocall.tv/images/tvp.png" group-title="EXCLUSIVO ALEXIS IPTV SUBSCRIBETE",EXCLUSIVO ALEXIS IPTV SUBSCRIBETE
+http://54.37.84.141:8000/live/demoleague/champions/3.
+#EXTINF:-1 tvg-ID="" tvg-name="ARG:ORBE 21" tvg-logo="http://photocall.tv/images/orbe21.png" group-title="LATINOS",EXCLUSIVO ALEXIS IPTV SUBSCRIBETE
+http://54.37.84.141:8000/live/demoleague/champions/136
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/y11kbvgunax223q/1515646209142-1024x1024.png" group-title="DEPORTES",JUEVES 14.05 ARSENAL VS ATLETICO DE MADRID
+http://www.sportinghub.info/mount/chapo1/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/y11kbvgunax223q/1515646209142-1024x1024.png" group-title="DEPORTES",JUEVES 17:15 RIVER PLATE VS EMELEC
+http://www.sportinghub.info/mount/chapo1/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.mlb.com/assets/images/9/1/2/196306912/cuts/mlbn_logo_400x300_ljtuhlxz_cuqseo4b.png" group-title="DEPORTES",MLB EN VIVO
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 tvg-logo="http://kwese.com/sites/default/files/NBATV_0.png" group-title="DEPORTES",NBA
+http://31.204.150.12:8080/edge/4304/tracks-v1a1/index.m3u8?token=17.18.1487.6d44eab61dcf5b1f0e6fa8f6595ee1bc.1.1.1.641.0.0.71875765cf0ee5df30360b6487a7b6ec
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1155_2_24231.png" group-title="DEPORTES",TYC SPORTS
+http://200.89.190.163/live/live/TyCSportHD/SA_Live/TyCSportHD-audio_AACL_spa_144800_50=144800-video=678000.m3u8
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/cos.png" group-title="DEPORTES",COS
+http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/cos-fc.png" group-title="DEPORTES",COS FC
+http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VTeboaN.png" group-title="DEPORTES", Bein Sports 1 | FHD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/566/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VTeboaN.png" group-title="DEPORTES", Bein Sports 2 | FHD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UpqhqzL.jpg" group-title="DEPORTES", La Liga TV | FHD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fUKODzu.png" group-title="DEPORTES", Movistar Futbol | FHD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RvUxWgn.png" group-title="DEPORTES",  Movistar MotoGP | FHD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/613/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DnTCqMT.png" group-title="DEPORTES", Movistar Golf | FHD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MuXjC6K.png" group-title="DEPORTES", Movistar Formula 1 | FHD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/612/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jPW4CkF.png" group-title="DEPORTES", Eurosport 1 | HD
+http://65.254.55.10:4000/live/197/197.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jPW4CkF.png" group-title="DEPORTES", Eurosport 1 (Alt) | FHD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/159/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jPW4CkF.png" group-title="DEPORTES", Eurosport 2 (Alt) | FHD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/77/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RD8lq2o.png" group-title="DEPORTES", Rai Sport | SD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/528/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Xex0vq5.jpg" group-title="DEPORTES", Sports TV | SD
+http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/master.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IJh5DjE.png" group-title="DEPORTES", Abu Dhabi Sports | SD
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IJh5DjE.png" group-title="DEPORTES", Abu Dhabi Sports 2 | SD
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:-1 tvg-logo="http://download.ada-net.cz/iptv/logos/fight_box_hd.png" group-title="DEPORTES",FightBox HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/900/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",SETANTA SPORTS HD
+http://91.149.172.100:80/channel?id=145&u=demo&p=demo
+#EXTINF:-1 group-title="DEPORTES",Setanta Sports+
+http://91.149.172.100:80/channel?id=146&u=demo&p=demo
+#EXTINF:-1 group-title="DEPORTES",Rai Sport
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/528/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Viasat sport
+http://persik.by/stream/2944/263250/10249.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",OLYMPIC CHANNEL
+https://live.olympicchannel.com/ocs/channel01b/master.m3u8
+#EXTINF:-1 tvg-logo="https://prodancecheer.com/wp-content/uploads/2018/01/1-12.png" group-title="DEPORTES",NFL NOW
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_4500k.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",EUROSPORT
+http://65.254.55.10:4000/live/197/197.m3u8
+#EXTINF:-1 tvg-logo="https://gigared.tv/wp-content/uploads/2017/06/FIGHT-BOX-300x140.png" group-title="DEPORTES",FIGHT BOX HD
+http://hls.redefine.pl/ECD95B41/1573/0/hls720/masterlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",MUNDOAUTOTV
+https://593b04c4c5670.streamlock.net/8702/8702/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://blogs.mercurynews.com/collegesports/files/2016/02/Pac12logo.png" group-title="DEPORTES",PAC 12 Arizona
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 tvg-logo="http://blogs.mercurynews.com/collegesports/files/2016/02/Pac12logo.png" group-title="DEPORTES",PAC 12 Bay Area
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 tvg-logo="http://blogs.mercurynews.com/collegesports/files/2016/02/Pac12logo.png" group-title="DEPORTES",PAC 12 Los Angeles
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 tvg-logo="http://blogs.mercurynews.com/collegesports/files/2016/02/Pac12logo.png" group-title="DEPORTES",PAC 12 Mountain
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 tvg-logo="http://blogs.mercurynews.com/collegesports/files/2016/02/Pac12logo.png" group-title="DEPORTES",PAC 12 Oregon
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 tvg-logo="http://blogs.mercurynews.com/collegesports/files/2016/02/Pac12logo.png" group-title="DEPORTES",PAC 12 Whashington
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8?JoCaRoIPTV.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://prodancecheer.com/wp-content/uploads/2018/01/1-12.png" group-title="DEPORTES",NFL USA HD
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_4500k.m3u8
+#EXTINF:-1 tvg-logo="https://prodancecheer.com/wp-content/uploads/2018/01/1-12.png" group-title="DEPORTES",NFL
+http://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_3000k.m3u8
+#EXTINF:-1 group-title="DEPORTES",Cosfc
+http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="LABEL",[B][COLOR blue]== ALEXIS IPTV  suncribete ami grupo  gratis listas y cuentas ==[/COLOR][/B]
+http://www.lengua.com/anthems/USA.mp3
+#EXTINF:-1 group-title="Credits" tvg-logo="tv.png",[COLOR red] ALEXIS IPTV[/COLOR] - [COLOR yellow]EXCLUSIVO ALEXIS IPTV[/COLOR]
+http://#
+#EXTINF:-1 group-title="CREDITS" tvg-logo="000.png",[COLOR blue][B]EXCLUSIVO alexis iptv ,dezeer, spotify,netflix,fox play,hbo now,wwe network,blim,ufc, etc alexis iptv subcribete  PREMIUM[/COLOR]
+https://dl.dropbox.com/s/x0p9zhh5bk5dr69/EXCLUSIVO SUBCRIBETE ALEXIS IPTV CUENTAS PREMIUM
+#EXTINF:-1 tvg-id="RAIUno.it" group-title="Italiano" tvg-logo="0605.png",[COLOR orange]ALEXIS IPTV EXCLUSIVO alexis iptv ,dezeer, spotify,netflix,fox play,hbo now,wwe network,blim,ufc, etc alexis iptv subscribete   SUBSCRIBETE[/COLOR]
+#EXTINF:-1 group-title="DEPORTES",Cos
+http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
+#EXTINF:-1 group-title="DEPORTES",CDO OP1
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w683557430.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", CDO OP2
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w72729836.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/734190291620667392/hxLk95y3.jpg" group-title="DEPORTES", CDO OP 3
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 tvg-logo="http://www.mlb.com/assets/images/9/1/2/196306912/cuts/mlbn_logo_400x300_ljtuhlxz_cuqseo4b.png" group-title="DEPORTES",MLB
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mlb.com/assets/images/9/1/2/196306912/cuts/mlbn_logo_400x300_ljtuhlxz_cuqseo4b.png" group-title="DEPORTES",MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mlb.com/assets/images/9/1/2/196306912/cuts/mlbn_logo_400x300_ljtuhlxz_cuqseo4b.png" group-title="DEPORTES",MLB Network*
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8
+#EXTINF:-1 tvg-logo="https://f5.com/Portals/1/Users/036/92/141092/logo-mlb-network.png" group-title="DEPORTES",MLB
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,tvg-logo="http://i.imgur.com/PxyIZNW.png" group-title="DEPORTES",DEPORT TV opc1
+https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/chunklist_w579935025_b542000_slesp.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,tvg-logo="http://i.imgur.com/PxyIZNW.png" group-title="DEPORTES",DEPORT TV opc2
+http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Depor Tv
+http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w92702833_b800000_slesp.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/p7DAIKG.png" group-title="DEPORTES", TODO DEPORTES
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-FS7BOEiTZuY/UDFmV5bsaCI/AAAAAAAAByA/YWo48CK0PsY/s1600/red+bull+tv.png" group-title="DEPORTES", RED BULL TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 group-title="DEPORTES",SPORTINGH
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8
+#EXTINF:-1 group-title="DEPORTES",TELETRAK
+http://edge1.cl.grupoz.cl/teletrakmovil/smil:mobile.smil/chunklist_w424394273_b750000_slesp.m3u8
+#EXTINF:-1 group-title="DEPORTES", All sport
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1 group-title="DEPORTES",PORTO TV HD
+http://213.13.26.41:1935/live/portocanal/KodiPortugal.pt.m3u8
+#EXTINF:-1 group-title="DEPORTES",REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Real Madrid Tv
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_2_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Sevilla-FC-TV/Sevilla-FC-TV_.png" group-title="DEPORTES", SEVILLA TV
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 group-title="DEPORTES",SEVILLA TV
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Pac-12 ARIZONA
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Pac-12 BAY AREA
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Pac-12 Los Angeles
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Pac-12 Mountain
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Pac-12 Oregon
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Pac-12 Washington
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",VIASAT SPORT
+http://persik.by/stream/2944/263250/10249.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",LAS ESTRELLAS
+http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",AZTECA 7
+http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",CANAL 5
+http://live207.budtv.tv:8081/budtv/canal_5_masterbox_170/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.thewrap.com/univision/" group-title="DEPORTES",UNIVISION
+http://nlunioo.akamaized.net/nlds/univision/as/live/unioo_hd_1200_ipad.m3u8
+#EXTINF:-1 tvg-logo="https" group-title="DEPORTES",TELEMUNDO 51
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+#EXTINF:-1 tvg-logo="https" group-title="DEPORTES",FORO TV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_254_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-e1498612626748.png" group-title="DEPORTES",FOX SPORTS
+http://200.89.190.168/live/live/FoxSports/SA_Live/FoxSports.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",m Futbol 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/5/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",m Futbol 1 HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/29/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",m Futbol 2
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/6/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",m Futbol 3
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/7/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",m Futbol 3 HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/24/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Viasat Golf
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/59/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Match
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/200/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Match HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/113/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",m Arena
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",m Arena HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/289/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",m Igra
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",m Igra HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/287/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",m Nash sport
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",m Planeta
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/258/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Hash Futbol
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/13/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Nash Futbol HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/25/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Eurosport 1 HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/159/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Eurosport 2 Russia HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/77/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Viasat Sport East
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/45/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",m Boes
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Extreme Sports Channel
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/47/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Viasat Sport East HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/75/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Viasat Sport East HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/76/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Eurosport 2 Russia HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/78/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Konniy mir HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/112/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Eurosport 1 HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/160/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Eurosport 1 Russia
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/175/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Avto plus
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/248/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",KHL HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/291/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Sport 1 HD Deutschland
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/453/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Sky Sport News Deutschland
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/460/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Eurosport 2 HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/471/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Eurosport 2 HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/472/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ARG:CIUDAD MAGAZINE" tvg-logo="http://photocall.tv/images/magazine.png" group-title="LATINOS",EXCLUSIVO ALEXIS IPTV SUBSCRIBETE
+http://54.37.84.141:8000/live/demoleague/champions/2
+#EXTINF:-1 tvg-ID="" tvg-name="ARG:TV PUBLICA" tvg-logo="http://photocall.tv/images/tvp.png" group-title="EXCLUSIVO ALEXIS IPTV SUBSCRIBETE",EXCLUSIVO ALEXIS IPTV SUBSCRIBETE
+http://54.37.84.141:8000/live/demoleague/champions/3.
+#EXTINF:-1 tvg-ID="" tvg-name="ARG:ORBE 21" tvg-logo="http://photocall.tv/images/orbe21.png" group-title="LATINOS",EXCLUSIVO ALEXIS IPTV SUBSCRIBETE
+http://54.37.84.141:8000/live/demoleague/champions/136
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Sky Sport Austria HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/475/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",GoldBet 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/503/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",GoldBet 2
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/504/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Rai Sport
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/528/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",TVP Sport HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/556/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",beIN Sports España HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/566/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",beIN LaLiga HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",M. Futbol HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",LaLiga TV Bar HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",M. Formula 1 HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Movistar MotoGP HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Automoto TV
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/635/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",EuroSport 1 Deutschland
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/682/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Sport1 HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/701/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",EuroSport 1 Deutschland HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/704/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Sky Champions
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/724/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Sky Sport Bundesliga 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/725/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Sky Sport 2 HD Deutschland
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/733/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Sky Sport 1 HD Deutschland
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/737/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Sky Sport Austria
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/746/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Sport 1 Deutschland
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/774/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",M4 Sport HD Europa
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/864/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Eurosport 1 HD Polska
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/891/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Eurosport 1 Polska
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/895/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",FORMULA 1 opción 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",FORMULA 1 opción 2
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", beIN Sports España
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/566/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", beIN LaLiga HD
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", M. Futbol HD
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/575/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", LaLiga TV Bar HD
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/581/index.m3u8
+#EXTINF:-1,MOVISTAR FUTBOL
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
+#EXTINF:-1,MOVISTAR GP
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
+#EXTINF:-1,MOVISTAR LA LIGA TV
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
+#EXTINF:-1,MOVISTAR LA LIGA TV
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/581/index.m3u8
+#EXTINF:-1,MOVISTAR MOTO GP
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/528/index.m3u8
+#EXTINF:-1,MOVISTAR TELECINCO HD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/617/index.m3u8
+#EXTINF:-1,MOVISTAR TODO DEPORTES
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+#EXTINF:-1,MOVISTAR TRAVEL HD
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+#EXTINF:-1,BEIN LA LIGA
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
+#EXTINF:-1,BEIN LA LIGA
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/566/index.m3u8
+#EXTINF:-1,BEIN SPORTS
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/566/index.m3u8
+#EXTINF:-1,MOVISTAR ANTENA 3 HD
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_4_av-b.m3u8
+#EXTINF:-1,MOVISTAR ANTENA 3 HD
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF:-1,MOVISTAR AXN WHITE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8
+#EXTINF:-1,MOVISTAR COMEDY CENTRAL HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
+#EXTINF:-1,MOVISTAR DCINE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
+#EXTINF:-1,MOVISTAR FOX
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
+#EXTINF:-1,MOVISTAR FUTBOL
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
+#EXTINF:-1,MOVISTAR GP
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
+#EXTINF:-1,MOVISTAR LA LIGA TV
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
+#EXTINF:-1,MOVISTAR LA LIGA TV
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/581/index.m3u8
+#EXTINF:-1,MOVISTAR MOTO GP
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/528/index.m3u8
+#EXTINF:-1,MOVISTAR TELECINCO HD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/617/index.m3u8
+#EXTINF:-1,MOVISTAR TODO DEPORTES
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+#EXTINF:-1,MOVISTAR TRAVEL HD
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+#EXTINF:-1,BEIN LA LIGA
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/574/index.m3u8
+#EXTINF:-1,BEIN LA LIGA
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/566/index.m3u8
+#EXTINF:-1,BEIN SPORTS
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/566/index.m3u8
+#EXTINF:-1,FOX Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
+#EXTINF:-1,Cosmo Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
+#EXTINF:-1,NOVA
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:-1,AXN White Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
+#EXTINF:-1,AXN
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/610/index.m3u8
+#EXTINF:-1,AXN HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8
+#EXTINF:-1,COMEDY CENTRAL HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
+#EXTINF:-1,AMC HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/614/index.m3u8
+#EXTINF:-1,FOX LIFE hd
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/601/index.m3u8
+#EXTINF:-1,FOX LIFE HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/567/index.m3u8
+#EXTINF:-1,AXN WHITE HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8
+#EXTINF:-1,MOVISTAR ACCION
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/605/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ARG:CIUDAD MAGAZINE" tvg-logo="http://photocall.tv/images/magazine.png" group-title="LATINOS",EXCLUSIVO ALEXIS IPTV SUBSCRIBETE
+http://54.37.84.141:8000/live/demoleague/champions/2
+#EXTINF:-1 tvg-ID="" tvg-name="ARG:TV PUBLICA" tvg-logo="http://photocall.tv/images/tvp.png" group-title="EXCLUSIVO ALEXIS IPTV SUBSCRIBETE",EXCLUSIVO ALEXIS IPTV SUBSCRIBETE
+http://54.37.84.141:8000/live/demoleague/champions/3.
+#EXTINF:-1 tvg-ID="" tvg-name="ARG:ORBE 21" tvg-logo="http://photocall.tv/images/orbe21.png" group-title="LATINOS",EXCLUSIVO ALEXIS IPTV SUBSCRIBETE
+http://54.37.84.141:8000/live/demoleague/champions/136
+#EXTINF:-1,MOVISTAR ACCION HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8
+#EXTINF:-1,MOVISTAR COMEDIA
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/606/index.m3u8
+#EXTINF:-1,MOVISTAR COMEDIA HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/580/index.m3u8
+#EXTINF:-1,MOVISTAR DCINE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
+#EXTINF:-1, M+ Series Xtra HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
+#EXTINF:-1, M+ Accion HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/index.m3u8
+#EXTINF:-1, M+ Comedia
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/606/index.m3u8
+#EXTINF:-1, M+ DCine
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/607/index.m3u8
+#EXTINF:-1, M+ Xtra
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
+#EXTINF:-1,Hollywood HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8
+#EXTINF:-1,AXN White Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
+#EXTINF:-1, FilmBox Premium
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/552/index.m3u8
+#EXTINF:-1,FilmBox
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/948/index.m3u8
+#EXTINF:-1, FilmBox Action
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/554/index.m3u8
+#EXTINF:-1,CBS reality
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/554/index.m3u8
+#EXTINF:-1,FOX Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
+#EXTINF:-1,Wscv Live
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+#EXTINF:-1,Cosmo Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
+#EXTINF:-1,NOVA
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:-1,AXN White Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
+#EXTINF:-1,FOX
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/608/index.m3u8
+#EXTINF:-1,AXN
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/610/index.m3u8
+#EXTINF:-1,AXN HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8
+#EXTINF:-1,COMEDY CENTRAL HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
+#EXTINF:-1,AMC HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/614/index.m3u8
+#EXTINF:-1,FOX LIFE hd
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/601/index.m3u8
+#EXTINF:-1,FOX LIFE HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/567/index.m3u8
+#EXTINF:-1,AXN WHITE HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8
+#EXTINF:-1,MOVISTAR ACCION
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/605/index.m3u8
+#EXTINF:-1,MOVISTAR ACCION HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8
+#EXTINF:-1,MOVISTAR COMEDIA
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/606/index.m3u8
+#EXTINF:-1,MOVISTAR COMEDIA HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/580/index.m3u8
+#EXTINF:-1,MOVISTAR DCINE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
+#EXTINF:-1, M+ Series Xtra HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
+#EXTINF:-1, M+ Accion HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/index.m3u8
+#EXTINF:-1, M+ Comedia
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/606/index.m3u8
+#EXTINF:-1, M+ DCine
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/607/index.m3u8
+#EXTINF:-1, M+ Xtra
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
+#EXTINF:-1, FOX Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
+#EXTINF:-1,Cosmo Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
+#EXTINF:-1,Hollywood HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8
+#EXTINF:-1,AXN White Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
+#EXTINF:-1, FilmBox Arthouse
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/480/index.m3u8
+#EXTINF:-1,CBS reality
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/554/index.m3u8
+#EXTINF:-1, CBS Action
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/405/index.m3u8
+#EXTINF:-1,FOX Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
+#EXTINF:-1,Cosmo Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
+#EXTINF:-1,NOVA
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:-1,MOVISTAR ACCION
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/605/index.m3u8
+#EXTINF:-1,MOVISTAR ACCION HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8
+#EXTINF:-1,MOVISTAR COMEDIA
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/606/index.m3u8
+#EXTINF:-1,MOVISTAR COMEDIA HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/580/index.m3u8
+#EXTINF:-1,MOVISTAR DCINE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
+#EXTINF:-1, M+ Series Xtra HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
+#EXTINF:-1, M+ Accion HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/index.m3u8
+#EXTINF:-1, M+ Comedia
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/606/index.m3u8
+#EXTINF:-1, M+ DCine
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/607/index.m3u8
+#EXTINF:-1, M+ Xtra
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
+#EXTINF:-1, FOX Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
+#EXTINF:-1,Cosmo Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
+#EXTINF:-1,Hollywood HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8
+#EXTINF:-1,AXN White Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
+#EXTINF:-1, FilmBox Arthouse
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/480/index.m3u8
+#EXTINF:-1,FOX Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
+#EXTINF:-1,Wscv Live
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+#EXTINF:-1,Cosmo Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
+#EXTINF:-1,NOVA
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:-1,AXN White Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
+#EXTINF:-1,FOX
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/608/index.m3u8
+#EXTINF:-1,AXN
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/610/index.m3u8
+#EXTINF:-1,AXN HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8
+#EXTINF:-1,COMEDY CENTRAL HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
+#EXTINF:-1,FOX LIFE hd
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/601/index.m3u8
+#EXTINF:-1,FOX LIFE HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/567/index.m3u8
+#EXTINF:-1,AXN WHITE HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8
+#EXTINF:-1,MOVISTAR ACCION
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/605/index.m3u8
+#EXTINF:-1,MOVISTAR ACCION HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8
+#EXTINF:-1,MOVISTAR COMEDIA
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/606/index.m3u8
+#EXTINF:-1,MOVISTAR COMEDIA HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/580/index.m3u8
+#EXTINF:-1, M+ Series Xtra HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
+#EXTINF:-1, M+ Accion HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/index.m3u8
+#EXTINF:-1, M+ Comedia
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/606/index.m3u8
+#EXTINF:-1, M+ DCine
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/607/index.m3u8
+#EXTINF:-1, M+ Xtra
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
+#EXTINF:-1, FOX Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
+#EXTINF:-1,Cosmo Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
+#EXTINF:-1,Hollywood HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8
+#EXTINF:-1,AXN White Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ARG:CIUDAD MAGAZINE" tvg-logo="http://photocall.tv/images/magazine.png" group-title="LATINOS",EXCLUSIVO ALEXIS IPTV SUBSCRIBETE
+http://54.37.84.141:8000/live/demoleague/champions/2
+#EXTINF:-1 tvg-ID="" tvg-name="ARG:TV PUBLICA" tvg-logo="http://photocall.tv/images/tvp.png" group-title="EXCLUSIVO ALEXIS IPTV SUBSCRIBETE",EXCLUSIVO ALEXIS IPTV SUBSCRIBETE
+http://54.37.84.141:8000/live/demoleague/champions/3.
+#EXTINF:-1 tvg-ID="" tvg-name="ARG:ORBE 21" tvg-logo="http://photocall.tv/images/orbe21.png" group-title="LATINOS",EXCLUSIVO ALEXIS IPTV SUBSCRIBETE
+http://54.37.84.141:8000/live/demoleague/champions/136
